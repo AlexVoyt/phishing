@@ -124,6 +124,11 @@
 ![canary_outlook_2](screenshots/Canary%20outlook%202%20spam.png)
 ![canary_outlook_3](screenshots/Canary%20outlook%203%20spam.png)
 
+## Phishing campaign sumbit data problems
+
+![submit_problem_1](screenshots/steam%20campaign%20submit%20doesnt%20work.png)
+![submit_problem_2](screenshots/submit%20doesnt%20work.png)
+
 ## Phishing campaign result
 
 <table>
